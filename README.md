@@ -47,8 +47,20 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![Screenshot 2024-01-03 013409](https://github.com/saravidhya/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/87062069/275c470e-6ee2-4a2b-a46d-eef024e8086a)
+![Screenshot 2024-01-03 013428](https://github.com/saravidhya/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/87062069/7f8ba653-b18c-459f-be3b-1ebbdd6e71fe)
+![Screenshot 2024-01-03 013451](https://github.com/saravidhya/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/87062069/5b2b5f36-5d46-4941-939e-a20a45a193a9)
+
+
+## OUTPUT :
+![Screenshot 2024-01-03 013502](https://github.com/saravidhya/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/87062069/52c86352-8121-4b32-bb4d-a311b4a8dccf)
+
+![Screenshot 2024-01-03 013514](https://github.com/saravidhya/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/87062069/e9d4cc3b-264a-41db-b56a-dd911c30e0d0)
+
+
+
+### Name: vidhiya lakshimi.S
+### Register Number: 23012308
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
