@@ -49,6 +49,7 @@
 
 ![Screenshot 2024-01-03 013409](https://github.com/saravidhya/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/87062069/275c470e-6ee2-4a2b-a46d-eef024e8086a)
 ![Screenshot 2024-01-03 013428](https://github.com/saravidhya/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/87062069/7f8ba653-b18c-459f-be3b-1ebbdd6e71fe)
+
 ![Screenshot 2024-01-03 013451](https://github.com/saravidhya/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/87062069/5b2b5f36-5d46-4941-939e-a20a45a193a9)
 
 
